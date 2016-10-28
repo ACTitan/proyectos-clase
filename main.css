@@ -1,17 +1,38 @@
 	body{
-		background: green;
+		background: black;
 	}
 
-@media (max-width: 1200px){
-	body{
-		background: red;
-	}
-}
+@media (max-width: 1200px){	body{		background: orange;	}}
 
 @media (max-width:700px){
 	body{
-		background: yellow;
+		background: blue;
 	}
 }
 
+ .cuarto {width:150px; 
+ 	height:150px; 
+ 	background:red;
+ 	border: 3px solid;
+ 	
+}
 
+.ventana {width: 30px;
+	height: 30px;
+	background: yellow;
+	border: 3px solid;
+	
+	}
+
+.ventana2 {width: 30px;
+	height: 30px;
+	background: yellow;
+	border: 3px solid;
+	}
+
+ .ventana3 {width: 30px;
+	height: 30px;
+	background: yellow;
+	border: 3px solid;
+		
+	}
